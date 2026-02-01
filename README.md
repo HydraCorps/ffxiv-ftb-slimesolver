@@ -8,7 +8,7 @@ The goal of this project is to help players optimize their movement and position
 
 ## Usage
 
-- Visit the [site](https://github.com/HydraCorps/slimesolver).
+- Visit the [site](https://slimesolver.hydracorps.net).
 - Select your starting debuff (applied after the 'Primordial Chaos' cast)
 - Select the first pattern of the indicated slime jumps.
 - Use the resulting images/table.
