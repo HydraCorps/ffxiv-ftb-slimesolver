@@ -1,0 +1,49 @@
+{
+  //https://code.visualstudio.com/docs/languages/markdown
+  "editor.minimap.autohide": "mouseover",
+  "editor.glyphMargin": false,
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.insertSpaces": true,
+  "editor.indentSize": 4,
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false,
+  "markdown.validate.enabled": true,
+  "markdown.updateLinksOnFileMove.enabled": "prompt",
+  "workbench.startupEditor": "none",
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "editor.renderFinalNewline": "dimmed",
+  "files.defaultLanguage": "markdown",
+  "workbench.editor.highlightModifiedTabs": true,
+  "markdown-preview-enhanced.mermaidTheme": "dark",
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  //"editor.fontLigatures": true,
+  //"editor.fontFamily": "Consolas, 'Courier New', monospace"
+  "[json]": {
+    "editor.indentSize": 2,
+  },
+  "[jsonc]": {
+    "editor.indentSize": 2,
+  },  
+  "[markdown]": {
+    "editor.indentSize": 4,
+    "files.trimTrailingWhitespace": false
+  },
+  "markdown.validate.fileLinks.enabled": "warning",
+  "markdown.validate.duplicateLinkDefinitions.enabled": "warning",
+  "markdown.validate.fragmentLinks.enabled": "warning",
+  "markdown.validate.referenceLinks.enabled": "warning",
+  "workbench.editor.empty.hint": "hidden",
+  "hediet.vscode-drawio.theme": "dark",
+  "excalidraw.theme": "light",
+  "excalidraw.image": {
+    "exportScale": 1,
+    "exportWithBackground": true,
+    "exportWithDarkMode": false
+  }
+  // "hediet.vscode-drawio.customLibraries": [
+  //   {
+  //   }
+  // ]
+}

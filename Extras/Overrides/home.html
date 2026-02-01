@@ -1,0 +1,41 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% extends "main.html" %}
+{% block tabs %}
+  {{ super() }}
+  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
+  <section class="mdx-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+        <div class="mdx-hero__image">
+          <img src="assets/images/illustration.png" alt="" width="829" height="600" draggable="false">
+        </div>
+        <div class="mdx-hero__content">
+          <h1>Nedscaper Docs</h1>
+          <p>
+            Welcome to Nedscaper's technical documentation platform.
+            <br><br>
+            Here we publish and maintain documentation regarding our solutions, professional services and best practices learned in the field.
+            <br><br>
+            Whether you're a guest, a client or a Nedscaper, there'll be something for you here.
+            <br><br>
+            "// <i>Securing Cloud and Giving Back</i>"
+            <br><br>
+          </p>
+          <a href="{{ 'internal/' | url }}" title="Internal documentation" class="md-button md-button--primary">
+            I'm a Nedscaper
+          </a>
+          <a href="{{ 'professionalservices/' | url }}" title="Professional services documentation" class="md-button">
+            I'm a client
+          </a>
+          <a href="{{ 'public/' | url }}" title="Public documentation" class="md-button">
+            I'm a guest
+          </a>          
+        </div>
+      </div>
+    </div>
+  </section>
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}

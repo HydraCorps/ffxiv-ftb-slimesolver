@@ -1,0 +1,64 @@
+{
+	//https://code.visualstudio.com/docs/editing/userdefinedsnippets
+    "Default tempate": {
+        "prefix": "new document",
+        "isFileTemplate": true,
+        "body": [
+            "# Tite",
+            "",
+            "??? abstract \"Document information\"",
+            "   Updated at: $CURRENT_DATE-$CURRENT_MONTH_NAME-$CURRENT_YEAR  ",
+            "   Created at: $CURRENT_DATE-$CURRENT_MONTH_NAME-$CURRENT_YEAR  ",
+            "   Author: [Your Name](mailto:your.email@nedscaper.com)  ",
+            "",
+            "## Introduction",
+            "",
+            "## First header",
+            ""
+        ],
+        "description": "Nedscaper Docs default document template"
+    },
+    "Blog tempate": {
+        "prefix": "new blog post",
+        "isFileTemplate": true,
+        "body": [
+            "---",
+            "title: Document Title",
+            "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "authors:",
+            "  #- StephanSchwarz",
+            "  #- MatthewPiek",
+            "  #- MassimoProta",
+            "categories:",
+            "  #- MXDR",
+            "links:",
+            "  #- ",
+            "---",
+            "",
+            "",
+            "<!-- more -->",
+            
+        ],
+        "description": "Nedscaper Docs default blog template"
+    },
+    "Doc header": {
+        "prefix": "header",
+        "isFileTemplate": true,
+        "body": [
+            "---",
+            "title: Document Title",
+            "authors:",
+            "  #- StephanSchwarz",
+            "  #- MatthewPiek",
+            "  #- MassimoProta",
+            "created:",
+            "modified:",
+            "reviewed:",
+            "tags:",
+            "---",
+
+            
+        ],
+        "description": "Nedscaper Docs default blog template"
+    },    
+}

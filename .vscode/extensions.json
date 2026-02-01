@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bierner.markdown-mermaid",
+    "pkief.material-icon-theme",
+    "vscode-nested-tags.vscode-nested-tags",
+    "shd101wyy.markdown-preview-enhanced",
+    "davidanson.vscode-markdownlint"
+  ]
+}
