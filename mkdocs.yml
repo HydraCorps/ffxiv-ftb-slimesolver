@@ -1,8 +1,8 @@
 site_name: FTB Boss 2 (Dead stars) - Slime jump solver
 site_description: >-
-  Final Fantasy's XIV - The Forked Tower slime jump solver
+  Final Fantasy XIV - The Forked Tower Blood: Slime jump solver
 site_author: Gardienforce Unicorn
-repo_url: https://github.com/HydraCorps/slimesolver
+repo_url: https://github.com/HydraCorps/ffxiv-ftb-slimesolver
 
 theme:
   name:  material

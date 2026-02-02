@@ -1,6 +1,6 @@
 # FTB Boss 2 (Dead Stars) - Slime Jump Solver
 
-This repository provides a solver and visual guide for the "Slime Jump" mechanic in the Final Fantasy XIV raid encounter "The Forked Tower: Boss 2 (Dead Stars)".
+This repository provides a solver and visual guide for the "Slime Jump" mechanic in the Final Fantasy XIV raid encounter "The Forked Tower Blood: Boss 2 (Dead Stars)".
 
 ## Purpose
 
@@ -11,11 +11,13 @@ The goal of this project is to help players optimize their movement and position
 - Visit the [site](https://slimesolver.hydracorps.net).
 - Select your starting debuff (applied after the 'Primordial Chaos' cast)
 - Select the first pattern of the indicated slime jumps.
-- Use the resulting images/table.
+- Use the resulting images/table to resolve the mechanic.
+
+![Demo](Demo.gif)
 
 ## Documentation
 
-All guides and solver tables are located in the `docs/` directory. The site is built using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
+All relevant files are located in the `docs/` directory. The site is built using [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 
 ## Author
 
