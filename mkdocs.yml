@@ -3,6 +3,7 @@ site_description: >-
   Final Fantasy XIV - The Forked Tower Blood: Slime jump solver
 site_author: Gardienforce Unicorn
 repo_url: https://github.com/HydraCorps/ffxiv-ftb-slimesolver
+copyright: Made by Gardienforce Unicorn | Cactuar | Aether Datacenter
 
 theme:
   name:  material
