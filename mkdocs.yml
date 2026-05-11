@@ -5,15 +5,19 @@ site_author: Gardienforce Unicorn
 repo_url: https://github.com/HydraCorps/ffxiv-ftb-slimesolver
 copyright: Made by Gardienforce Unicorn | Cactuar | Aether Datacenter
 
+nav:
+   - Normal: index.md
+   - Berserker: berserker.md
+
 theme:
   name:  material
   custom_dir: Extras/Overrides
   features:
-    - navigation.top
+    # - navigation.top
     # - navigation.sections
-    - navigation.indexes
-    # - navigation.tabs
-    #- navigation.tabs.sticky
+    # - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
     - toc.integrate
     - search.highlight
     - content.code.copy
